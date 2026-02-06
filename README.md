@@ -92,7 +92,7 @@
     <!-- Product Listings -->
     <div class="container">
         <div class="product">
-            <img src="https://via.placeholder.com/200" alt="Product 1">
+            <img src="koduvally.png" alt="Product 1">
             <h3>Product 1</h3>
             <p>₹999</p>
             <button>Add to Cart</button>
